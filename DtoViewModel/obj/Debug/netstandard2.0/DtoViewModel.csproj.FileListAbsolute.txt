@@ -1,0 +1,9 @@
+E:\VisualStudio\repo\DtoViewModel\DtoViewModel\bin\Debug\netstandard2.0\DtoViewModel.deps.json
+E:\VisualStudio\repo\DtoViewModel\DtoViewModel\bin\Debug\netstandard2.0\DtoViewModel.dll
+E:\VisualStudio\repo\DtoViewModel\DtoViewModel\bin\Debug\netstandard2.0\DtoViewModel.pdb
+E:\VisualStudio\repo\DtoViewModel\DtoViewModel\obj\Debug\netstandard2.0\DtoViewModel.csprojAssemblyReference.cache
+E:\VisualStudio\repo\DtoViewModel\DtoViewModel\obj\Debug\netstandard2.0\DtoViewModel.csproj.CoreCompileInputs.cache
+E:\VisualStudio\repo\DtoViewModel\DtoViewModel\obj\Debug\netstandard2.0\DtoViewModel.AssemblyInfoInputs.cache
+E:\VisualStudio\repo\DtoViewModel\DtoViewModel\obj\Debug\netstandard2.0\DtoViewModel.AssemblyInfo.cs
+E:\VisualStudio\repo\DtoViewModel\DtoViewModel\obj\Debug\netstandard2.0\DtoViewModel.dll
+E:\VisualStudio\repo\DtoViewModel\DtoViewModel\obj\Debug\netstandard2.0\DtoViewModel.pdb

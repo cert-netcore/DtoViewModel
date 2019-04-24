@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "DtoViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/DtoViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DtoViewModel.dll": {}
+        }
       }
     }
   },
@@ -678,10 +688,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "DtoViewModel/1.0.0": {
+      "type": "project",
+      "path": "../DtoViewModel/DtoViewModel.csproj",
+      "msbuildProject": "../DtoViewModel/DtoViewModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "DtoViewModel >= 1.0.0",
       "Microsoft.NETCore.App >= 2.2.0"
     ]
   },
@@ -717,7 +733,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\VisualStudio\\repo\\DtoViewModel\\DtoViewModel\\DtoViewModel.csproj": {
+              "projectPath": "E:\\VisualStudio\\repo\\DtoViewModel\\DtoViewModel\\DtoViewModel.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

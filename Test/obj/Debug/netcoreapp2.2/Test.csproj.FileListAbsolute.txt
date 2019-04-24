@@ -1,0 +1,14 @@
+E:\VisualStudio\repo\DtoViewModel\Test\bin\Debug\netcoreapp2.2\Test.deps.json
+E:\VisualStudio\repo\DtoViewModel\Test\bin\Debug\netcoreapp2.2\Test.runtimeconfig.json
+E:\VisualStudio\repo\DtoViewModel\Test\bin\Debug\netcoreapp2.2\Test.runtimeconfig.dev.json
+E:\VisualStudio\repo\DtoViewModel\Test\bin\Debug\netcoreapp2.2\Test.dll
+E:\VisualStudio\repo\DtoViewModel\Test\bin\Debug\netcoreapp2.2\Test.pdb
+E:\VisualStudio\repo\DtoViewModel\Test\obj\Debug\netcoreapp2.2\Test.csprojAssemblyReference.cache
+E:\VisualStudio\repo\DtoViewModel\Test\obj\Debug\netcoreapp2.2\Test.csproj.CoreCompileInputs.cache
+E:\VisualStudio\repo\DtoViewModel\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInfoInputs.cache
+E:\VisualStudio\repo\DtoViewModel\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInfo.cs
+E:\VisualStudio\repo\DtoViewModel\Test\obj\Debug\netcoreapp2.2\Test.dll
+E:\VisualStudio\repo\DtoViewModel\Test\obj\Debug\netcoreapp2.2\Test.pdb
+E:\VisualStudio\repo\DtoViewModel\Test\bin\Debug\netcoreapp2.2\DtoViewModel.dll
+E:\VisualStudio\repo\DtoViewModel\Test\bin\Debug\netcoreapp2.2\DtoViewModel.pdb
+E:\VisualStudio\repo\DtoViewModel\Test\obj\Debug\netcoreapp2.2\Test.csproj.CopyComplete
